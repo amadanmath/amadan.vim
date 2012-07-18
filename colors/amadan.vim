@@ -25,9 +25,9 @@ hi CursorLine                   ctermbg=238                                 guib
 hi FoldColumn     ctermfg=248   ctermbg=bg                   guifg=#a8a8a8  guibg=#000000
 " changed
 hi Folded         ctermfg=255   ctermbg=60                   guifg=#808080  guibg=#101010
-hi IncSearch      ctermfg=0     ctermbg=223                  guifg=#000000  guibg=#ffd7af
+hi IncSearch      ctermfg=0     ctermbg=223                  guifg=#ffcc33  guibg=#000000
 hi NonText        ctermfg=248   ctermbg=233   cterm=bold     guifg=#a8a8a8  guibg=#121212
-hi Search         ctermfg=0     ctermbg=149                  guifg=#000000  guibg=#afd75f
+hi Search         ctermfg=0     ctermbg=149                  guifg=#000000  guibg=#ffff00
 hi SignColumn     ctermfg=248                                guifg=#a8a8a8
 hi SpecialKey     ctermfg=77                                 guifg=#5fd75f
 hi StatusLine     ctermfg=232   ctermbg=255                  guifg=#080808  guibg=#eeeeee
